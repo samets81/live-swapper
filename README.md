@@ -93,7 +93,7 @@ Install the required components:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/live-swapper.git
+git clone https://github.com/samets81/live-swapper.git
 cd live-swapper
 ```
 
