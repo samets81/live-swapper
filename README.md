@@ -19,6 +19,10 @@
 **Live-Swapper** is a powerful tool for real-time face swapping via webcam. The application leverages TensorRT for maximum GPU performance on NVIDIA hardware and provides a clean graphical interface with flexible controls.
 
 Ideal for content creators, streamers, creative projects, and developers exploring computer vision technologies.
+<img width="1485" height="784" alt="p1" src="https://github.com/user-attachments/assets/ade0c2ef-daf0-4e33-9452-659ba092c113" />
+<img width="1485" height="784" alt="p2" src="https://github.com/user-attachments/assets/ecfedf7f-3a2a-4b0a-b69a-ca0ed251e0ea" />
+<img width="1767" height="812" alt="p3" src="https://github.com/user-attachments/assets/5befa93f-6664-4975-b4a9-d477fdc4ca3c" />
+
 
 ---
 
@@ -191,6 +195,10 @@ live-swapper/
 - [ ] **Processing speed boost** — further pipeline optimization
 - [ ] **Memory optimization** — reduced VRAM consumption
 
+<div align="center">
+<b>You can also always get the latest updates from our website: https://liveswapper.ru/ by supporting the project.</b>
+
+</div>
 ---
 
 ## 🤝 Credits & Technologies
